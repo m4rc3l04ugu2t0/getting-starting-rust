@@ -1,0 +1,5 @@
+pub const SECONDS_IN_MINUTE: u32 = 60;
+pub const MINUTE_IN_HOUR: u32 = 60;
+pub const SECONDS_IN_HOUR: u32 = SECONDS_IN_MINUTE * MINUTE_IN_HOUR;
+
+
